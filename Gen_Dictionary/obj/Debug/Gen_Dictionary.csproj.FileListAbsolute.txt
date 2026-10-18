@@ -1,0 +1,7 @@
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\Gen_Dictionary\bin\Debug\Gen_Dictionary.exe.config
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\Gen_Dictionary\bin\Debug\Gen_Dictionary.exe
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\Gen_Dictionary\bin\Debug\Gen_Dictionary.pdb
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\Gen_Dictionary\obj\Debug\Gen_Dictionary.csprojAssemblyReference.cache
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\Gen_Dictionary\obj\Debug\Gen_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\Gen_Dictionary\obj\Debug\Gen_Dictionary.exe
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\Gen_Dictionary\obj\Debug\Gen_Dictionary.pdb

@@ -1,0 +1,10 @@
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\CryptoAsymmetric\bin\Debug\CryptoAsymmetric.exe.config
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\CryptoAsymmetric\bin\Debug\CryptoAsymmetric.exe
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\CryptoAsymmetric\bin\Debug\CryptoAsymmetric.pdb
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\CryptoAsymmetric\obj\Debug\CryptoAsymmetric.csprojAssemblyReference.cache
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\CryptoAsymmetric\obj\Debug\CryptoAsymmetric.Form1.resources
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\CryptoAsymmetric\obj\Debug\CryptoAsymmetric.Properties.Resources.resources
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\CryptoAsymmetric\obj\Debug\CryptoAsymmetric.csproj.GenerateResource.cache
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\CryptoAsymmetric\obj\Debug\CryptoAsymmetric.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\CryptoAsymmetric\obj\Debug\CryptoAsymmetric.exe
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\CryptoAsymmetric\obj\Debug\CryptoAsymmetric.pdb

@@ -1,0 +1,7 @@
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\Dictionaries\bin\Debug\Dictionaries.exe.config
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\Dictionaries\bin\Debug\Dictionaries.exe
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\Dictionaries\bin\Debug\Dictionaries.pdb
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\Dictionaries\obj\Debug\Dictionaries.csprojAssemblyReference.cache
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\Dictionaries\obj\Debug\Dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\Dictionaries\obj\Debug\Dictionaries.exe
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\Dictionaries\obj\Debug\Dictionaries.pdb

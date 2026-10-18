@@ -1,0 +1,7 @@
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\TipoDatos\bin\Debug\TipoDatos.exe.config
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\TipoDatos\bin\Debug\TipoDatos.exe
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\TipoDatos\bin\Debug\TipoDatos.pdb
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\TipoDatos\obj\Debug\TipoDatos.csprojAssemblyReference.cache
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\TipoDatos\obj\Debug\TipoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\TipoDatos\obj\Debug\TipoDatos.exe
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\TipoDatos\obj\Debug\TipoDatos.pdb

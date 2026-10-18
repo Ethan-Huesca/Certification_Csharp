@@ -1,0 +1,7 @@
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\C_Stack\bin\Debug\C_Stack.exe.config
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\C_Stack\bin\Debug\C_Stack.exe
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\C_Stack\bin\Debug\C_Stack.pdb
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\C_Stack\obj\Debug\C_Stack.csprojAssemblyReference.cache
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\C_Stack\obj\Debug\C_Stack.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\C_Stack\obj\Debug\C_Stack.exe
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\C_Stack\obj\Debug\C_Stack.pdb

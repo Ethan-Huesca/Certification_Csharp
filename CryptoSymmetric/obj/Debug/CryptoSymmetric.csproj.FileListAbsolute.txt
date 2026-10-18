@@ -1,0 +1,10 @@
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\CryptoSymmetric\bin\Debug\CryptoSymmetric.exe.config
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\CryptoSymmetric\bin\Debug\CryptoSymmetric.exe
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\CryptoSymmetric\bin\Debug\CryptoSymmetric.pdb
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\CryptoSymmetric\obj\Debug\CryptoSymmetric.csprojAssemblyReference.cache
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\CryptoSymmetric\obj\Debug\CryptoSymmetric.Form1.resources
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\CryptoSymmetric\obj\Debug\CryptoSymmetric.Properties.Resources.resources
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\CryptoSymmetric\obj\Debug\CryptoSymmetric.csproj.GenerateResource.cache
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\CryptoSymmetric\obj\Debug\CryptoSymmetric.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\CryptoSymmetric\obj\Debug\CryptoSymmetric.exe
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\CryptoSymmetric\obj\Debug\CryptoSymmetric.pdb

@@ -1,0 +1,7 @@
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\PropertiesAndMethods\bin\Debug\PropertiesAndMethods.exe.config
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\PropertiesAndMethods\bin\Debug\PropertiesAndMethods.exe
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\PropertiesAndMethods\bin\Debug\PropertiesAndMethods.pdb
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\PropertiesAndMethods\obj\Debug\PropertiesAndMethods.csprojAssemblyReference.cache
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\PropertiesAndMethods\obj\Debug\PropertiesAndMethods.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\PropertiesAndMethods\obj\Debug\PropertiesAndMethods.exe
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\PropertiesAndMethods\obj\Debug\PropertiesAndMethods.pdb

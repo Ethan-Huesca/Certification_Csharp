@@ -1,0 +1,10 @@
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\RemoteConnection\bin\Debug\RemoteConnection.exe.config
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\RemoteConnection\bin\Debug\RemoteConnection.exe
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\RemoteConnection\bin\Debug\RemoteConnection.pdb
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\RemoteConnection\obj\Debug\RemoteConnection.csprojAssemblyReference.cache
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\RemoteConnection\obj\Debug\RemoteConnection.Form1.resources
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\RemoteConnection\obj\Debug\RemoteConnection.Properties.Resources.resources
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\RemoteConnection\obj\Debug\RemoteConnection.csproj.GenerateResource.cache
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\RemoteConnection\obj\Debug\RemoteConnection.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\RemoteConnection\obj\Debug\RemoteConnection.exe
+C:\Users\Mauricio\Documents\Csharp_VisualStudio_mamadas\Certificacion_microsoftProgramming_c#\RemoteConnection\obj\Debug\RemoteConnection.pdb
